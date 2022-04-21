@@ -259,3 +259,4 @@ void remark(){
 	else
 	    strcpy(rem,s4);
 }
+
